@@ -16,7 +16,7 @@ The plan is for this repository to keep growing and for each one of the games to
 
 #### Listing of all the current minesweepers:
 
-- React: [react-sweeper](./react-sweeper/README.md)
+- React: [react-sweeper](https://github.com/moist-bread/react-sweeper)
 
 #### Upcoming plans:
 
